@@ -13,7 +13,7 @@ add the following to the HTML:
 
 Then, add the plugin itself:
 
-    <script src="jquery-plugin.js"></script>
+    <script src="leap-pointer.js"></script>
 
 And then activate it:
 
